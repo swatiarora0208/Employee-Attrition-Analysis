@@ -1,0 +1,6 @@
+echo "# Employee-Attrition-Analysis" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/swatiarora0208/Employee-Attrition-Analysis.git
+git push -u origin master
